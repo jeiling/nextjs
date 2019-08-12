@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "alias": "nextjs-template",
+  "alias": "jeiling-nextjs-template",
   "name": "nextjs-template",
   "builds": [
     { "src": "next.config.js", "use": "@now/next" }
